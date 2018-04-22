@@ -8,3 +8,5 @@ We want to you to create a set of presentation slides summarizing your project.
 
 ### Presentation
 Upload a .PDF of your presentation here for review.
+![LittleHelp](C:/Users/cuties/lc101/LiftOff/P6-Project_Presentation/LittleHelp.pdf)
+
