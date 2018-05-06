@@ -14,4 +14,4 @@ Provide a link to your LinkedIn account here.
 [LinkedIn](https://www.linkedin.com/in/suja-radhakrishnan-5b4052157)
 ### Resume
 You will need to upload a .PDF of your resume to this repo.
-![Resume](C:/Users/cuties/lc101/LiftOff/C1-Online_Profiles/Resume/Suja_Resume(LaunchCode).pdf)
+![Resume](C:/Users/cuties/lc101/LiftOff/C1-Online_Profiles/Resume/Suja_Resume.pdf)
